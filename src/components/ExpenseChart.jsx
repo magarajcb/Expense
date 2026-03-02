@@ -29,7 +29,7 @@ export default function ExpenseChart({ expenses }) {
             <Tooltip />
             <Bar
               dataKey="total"
-              fill="#6366f1"
+              fill="#f1b363""
               radius={[6, 6, 0, 0]}
             />
           </BarChart>
